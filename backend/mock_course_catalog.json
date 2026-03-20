@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "id": "c1",
+      "title": "Python for Beginners",
+      "skills_covered": ["Python", "Programming Basics"],
+      "level": "Beginner",
+      "duration": "4 weeks"
+    },
+    {
+      "id": "c2",
+      "title": "Advanced Python Architecture",
+      "skills_covered": ["Python", "Software Design", "Architecture"],
+      "level": "Advanced",
+      "duration": "6 weeks"
+    },
+    {
+      "id": "c3",
+      "title": "React.js Fundamentals",
+      "skills_covered": ["React", "JavaScript", "Frontend"],
+      "level": "Beginner",
+      "duration": "4 weeks"
+    },
+    {
+      "id": "c4",
+      "title": "Full-Stack Node.js and Express",
+      "skills_covered": ["Node.js", "Express", "Backend", "JavaScript"],
+      "level": "Intermediate",
+      "duration": "8 weeks"
+    },
+    {
+      "id": "c5",
+      "title": "Database Mastery with SQL",
+      "skills_covered": ["SQL", "Databases", "PostgreSQL"],
+      "level": "Intermediate",
+      "duration": "5 weeks"
+    },
+    {
+      "id": "c6",
+      "title": "AWS Cloud Practitioner",
+      "skills_covered": ["AWS", "Cloud Computing", "Infrastructure"],
+      "level": "Beginner",
+      "duration": "3 weeks"
+    },
+    {
+      "id": "c7",
+      "title": "Effective Communication for Leaders",
+      "skills_covered": ["Communication", "Leadership", "Soft Skills"],
+      "level": "Intermediate",
+      "duration": "2 weeks"
+    },
+    {
+      "id": "c8",
+      "title": "Data Structures and Algorithms",
+      "skills_covered": ["DSA", "Problem Solving", "C++", "Java"],
+      "level": "Intermediate",
+      "duration": "8 weeks"
+    },
+    {
+      "id": "c9",
+      "title": "Machine Learning with Scikit-Learn",
+      "skills_covered": ["Machine Learning", "Python", "Data Science"],
+      "level": "Intermediate",
+      "duration": "6 weeks"
+    },
+    {
+      "id": "c10",
+      "title": "Advanced React Patterns",
+      "skills_covered": ["React", "State Management", "Performance"],
+      "level": "Advanced",
+      "duration": "4 weeks"
+    }
+  ]
+}
